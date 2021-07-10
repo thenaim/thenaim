@@ -19,6 +19,7 @@ BACK-END:
 - Laravel framework,
 - Node.js (Express.js),
 - MySQL.
+- PostgreSQL
 
 TOOLS:
 - Jira,
