@@ -25,7 +25,7 @@ TOOLS:
 - Jira,
 - Trello,
 - Github,
-- Gitlub,
+- Gitlab,
 - Bitbucket,
 - Figma,
 - Sketch.
