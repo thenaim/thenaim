@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**thenaim/thenaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced full-stack web and hybrid mobile app developer with rich experience. Three-time participant and winner of the All-Russian competition for programming among students.
 
-Here are some ideas to get you started:
+FRONT-END:
+- ionic-framework,
+- Angular 2-12,
+- ReactJS
+- Redux
+- Capacitorjs
+- NGXS,
+- NgRx,
+- RxJs,
+- TypeScript,
+- JavaScript
+- HTML5, CSS3, SASS, SCSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BACK-END:
+- Laravel framework,
+- Node.js (Express.js),
+- MySQL.
+
+TOOLS:
+- Jira,
+- Trello,
+- Github,
+- Gitlub,
+- Bitbucket,
+- Figma,
+- Sketch.
